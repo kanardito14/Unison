@@ -1,0 +1,18 @@
+# Roots of the synchronization
+root = /home/jfleray
+root = ssh://celine.local//home/jfleray
+
+# Some regexps specifying names and paths to ignore
+ignore = Name *~
+ignore = Name .*~
+ignore = Name *.o
+#ignore = Name */.git
+
+# Window height
+height = 20
+
+# Use this command for displaying diffs
+#    diff = diff -y -W 79 --suppress-common-lines
+
+# Log actions to the terminal
+log = true

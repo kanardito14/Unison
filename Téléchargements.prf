@@ -1,0 +1,6 @@
+# Include the contents of the file common
+include commun.prf
+addprefsto = commun.prf
+
+# Paths to synchronize 
+path = Téléchargements
